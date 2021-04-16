@@ -1,0 +1,5 @@
+geopy==2.1.0
+django-crispy-forms==1.11.2
+geoip2==2.9.0
+folium==0.12.1
+Django==3.1.5
